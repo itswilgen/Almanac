@@ -1,0 +1,11 @@
+node_modules/
+vendor/
+.env
+.env.*
+!.env.example
+frontend/dist/
+backend/public/app/
+frontend/test-results/
+frontend/playwright-report/
+backend/storage/*.key
+.DS_Store

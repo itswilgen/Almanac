@@ -1,0 +1,75 @@
+[
+  {
+    "slug": "understanding-your-cycle",
+    "title": "Your cycle, in your own words",
+    "category": "MENSTRUAL HEALTH",
+    "summary": "A little context for the dates you record.",
+    "paragraphs": [
+      "A cycle is counted from the first day of one period to the first day of the next. Bleeding duration is a separate measurement. Recording your dates and experiences can help you describe changes at a healthcare appointment.",
+      "Cycles can change. A calendar estimate is a planning aid, not a diagnosis. Almanac uses your recorded history and never assumes that everyone has a 28-day cycle.",
+      "New to tracking? Start with what you know. You do not need to reconstruct missing dates. You can leave a period ongoing and add its end date later."
+    ],
+    "sources": [
+      {
+        "label": "NHS \u00b7 Periods and the menstrual cycle",
+        "url": "https://www.nhs.uk/conditions/periods/"
+      }
+    ]
+  },
+  {
+    "slug": "fertility-awareness",
+    "title": "Awareness begins with understanding",
+    "category": "FAMILY PLANNING",
+    "summary": "What a period calendar can\u2014and cannot\u2014tell you.",
+    "paragraphs": [
+      "Fertility awareness methods have specific instructions and need guidance from someone trained to teach them. Some use daily temperature and vaginal discharge observations as well as cycle records.",
+      "No date on this calendar is guaranteed pregnancy-free. Timing varies, even with regular cycles. Almanac does not provide fertile or lower-fertility dates.",
+      "The CDC describes the Standard Days Method as a specific method with cycle-length eligibility rules. It is not the same as taking an average of past periods. We have not implemented it or combined it with another method.",
+      "Talk with a qualified healthcare professional about a method that fits your circumstances. Fertility awareness does not protect against sexually transmitted infections."
+    ],
+    "sources": [
+      {
+        "label": "NHS \u00b7 Natural family planning",
+        "url": "https://www.nhs.uk/contraception/methods-of-contraception/natural-family-planning/"
+      },
+      {
+        "label": "CDC \u00b7 Standard Days Method",
+        "url": "https://www.cdc.gov/contraception/hcp/usspr/standard-days-method.html"
+      }
+    ]
+  },
+  {
+    "slug": "when-things-change",
+    "title": "When your usual rhythm changes",
+    "category": "GETTING SUPPORT",
+    "summary": "Make space for questions, and know when to ask for help.",
+    "paragraphs": [
+      "A late or missed period can have different causes, including pregnancy, stress, changes in weight, hormonal contraception, and breastfeeding. A calendar cannot identify the cause.",
+      "The NHS advises seeing a clinician if you miss three periods in a row, your periods become irregular, or you miss a period and have other symptoms. Seek advice if your periods have not started by age 15.",
+      "You can bring your dates and notes to an appointment if you choose. If you are worried, you do not have to wait for an app estimate to ask for support."
+    ],
+    "sources": [
+      {
+        "label": "NHS \u00b7 Missed or late periods",
+        "url": "https://www.nhs.uk/symptoms/missed-or-late-periods/"
+      }
+    ]
+  },
+  {
+    "slug": "contraception-conversation",
+    "title": "A conversation about contraception",
+    "category": "FAMILY PLANNING",
+    "summary": "Your needs and preferences belong in the conversation.",
+    "paragraphs": [
+      "There are different contraception options. A healthcare professional can explain how they work, how to use them, and which might suit your health and preferences.",
+      "Period tracking alone is not contraception. Condoms can also help protect against sexually transmitted infections; fertility awareness methods do not.",
+      "You can ask about effectiveness, side effects, costs, access, and what to do if a method is used incorrectly. Almanac does not prescribe contraception."
+    ],
+    "sources": [
+      {
+        "label": "NHS \u00b7 Methods of contraception",
+        "url": "https://www.nhs.uk/contraception/methods-of-contraception/"
+      }
+    ]
+  }
+]
